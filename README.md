@@ -1,4 +1,4 @@
-# MrJoozy
+# JTZ18
 An avid tech enthusiast
 
 <h1 align="center">Hi 👋, I'm Jon Taylor</h1>
