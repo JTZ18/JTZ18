@@ -1,5 +1,4 @@
 # JTZ18
-Dev Life
 
 <h1 align="center">Hi 👋, I'm Jon Taylor</h1>
 <h3 align="center">An avid Tech Enthusiast</h3>
