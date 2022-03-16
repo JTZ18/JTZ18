@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtz18" alt="jtz18" /></a> </p>
 
-- 🔭 I’m currently working on [Liv3ly NFT](liv3lynft.com)
+- 🔭 I’m currently working on [Liv3ly NFT](https://liv3lynft.com)
 
 - 🌱 I’m currently learning **Next.js react native stripe**
 
