@@ -7,19 +7,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtz18" alt="jtz18" /></a> </p>
 
-- 🔭 I’m currently working on [Liv3ly NFT](http://liv3lynft.com)
+- 🔭 **Currently Working On:**  
+I am actively developing innovative AI applications, focusing on multi-modal models and robust AI deployment strategies. My current projects include building full-stack applications that integrate advanced LLMs (like GPT, Claude, Mistral, Gemini) and RAG (Retrieval-Augmented Generation) applications.
 
-- 🌱 I’m currently learning **Next.js react native stripe**
+🌱 **Currently Learning:**  
+Expanding my skills in deploying and fine-tuning AI models using cutting-edge frameworks. This includes mastering different RAG pipelines and fine-tuning models like NousHermes, Dolphin, Zephyr Qwen, and Llama2 for specific business domains.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jtz18.vercel.app/](https://portfolio-jtz18.vercel.app/)
+👨‍💻 **My Projects:**  
+Most of my past projects are available at [https://portfolio-jtz18.vercel.app/](https://portfolio-jtz18.vercel.app/) or find them pinned on my profile
 
-- 📝 I regularly write articles on [https://hashnode.com/@JTZ18](https://hashnode.com/@JTZ18)
+📝 **I Write About AI:**  
+I blog my learnings on [https://hashnode.com/@JTZ18](https://hashnode.com/@JTZ18).
 
-- 💬 Ask me about **react, three.js, blender, figma**
+💬 **Ask Me About:**  
+Feel free to reach out if you have queries about deploying AI applications, fine-tuning AI models, or about specific technologies like comfyUI, ControlNets, SDXL, and SD1.5 found on civitai.com.
 
-- 📫 How to reach me **jon.taylorlim99@gmail.com**
+📫 **How to Reach Me:**  
+The best way to contact me is via email at **jon.taylorlim99@gmail.com**. I am always open to discussing AI projects or potential collaborations.
 
-- 📄 Know about my experiences [https://sutd-csm.symplicity.com/profiles/jontaylor.lim](https://sutd-csm.symplicity.com/profiles/jontaylor.lim)
+📄 **Professional Experience:**  
+Learn more about my professional journey and experiences in the AI field by visiting my detailed profile at [https://sutd-csm.symplicity.com/profiles/jontaylor.lim](https://sutd-csm.symplicity.com/profiles/jontaylor.lim).
 
 - ⚡ Fun fact **vibes**
 
