@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtz18" alt="jtz18" /></a> </p>
 
 🔭 **Currently Working On:**  
-I am actively developing innovative AI applications, focusing on multi-modal models and robust AI deployment strategies. My current projects include building full-stack applications that integrate advanced LLMs (like GPT, Claude, Mistral, Gemini) and RAG (Retrieval-Augmented Generation) applications.
+I am actively developing innovative AI applications, focusing on LLMs and robust AI deployment strategies. My current projects include building full-stack applications that integrate advanced LLMs (like GPT, Claude, Mistral, Gemini) and RAG (Retrieval-Augmented Generation) applications.
 
 🌱 **Currently Learning:**  
 Expanding my skills in deploying and fine-tuning AI models using cutting-edge frameworks. This includes mastering different RAG pipelines and fine-tuning models like NousHermes, Dolphin, Zephyr Qwen, and Llama2 for specific business domains.
