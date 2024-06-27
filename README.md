@@ -9,7 +9,7 @@
 
 🔭 **Currently Working On:**  
 I am actively developing innovative AI applications, focusing on LLMs and robust AI deployment strategies. My current projects include building full-stack applications that integrate advanced LLMs (like GPT, Claude, Mistral, Gemini) and RAG (Retrieval-Augmented Generation) applications.
-Latest Project: [TripSnips AI](https://tripsnips-fe-pdk6xuejya-uc.a.run.app) A travel app that extracts what you need from social media
+Latest Project: [TripSnips AI](https://tripsnips-fe-pdk6xuejya-uc.a.run.app), A travel app that extracts what you need from social media
 
 🌱 **Currently Learning:**  
 Expanding my skills in deploying and fine-tuning AI models using cutting-edge frameworks. This includes mastering different RAG pipelines and fine-tuning models like NousHermes, Dolphin, Zephyr Qwen, and Llama2 for specific business domains.
