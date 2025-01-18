@@ -1,11 +1,14 @@
-# JTZ18
+<h1 align="center">Hi there, I'm Jon Taylor Lim! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h3 align="center">AI Engineer | LLM Enthusiast | MLOps Practitioner</h3>
 
-<h1 align="center">Hi 👋, I'm Jon Taylor</h1>
-<h3 align="center">An avid Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jtz18&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jtz18&row=1" alt="Trophies" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jtz18&label=Profile%20views&color=f9b701&style=flat" alt="jtz18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtz18" alt="jtz18" /></a> </p>
+I’m an AI Apprentice at AI Singapore and a Computer Science & Design graduate from SUTD. I’m passionate about building state-of-the-art LLM applications and exploring advanced AI techniques—particularly in the realms of RAG (Retrieval-Augmented Generation), knowledge graphs, agentic frameworks, and MLOps.
 
 🔭 **Currently Working On:**  
 I am actively developing innovative AI applications, focusing on LLMs and robust AI deployment strategies. My current projects include building full-stack applications that integrate advanced LLMs (like GPT, Claude, Mistral, Gemini) and RAG (Retrieval-Augmented Generation) applications.
